@@ -1,0 +1,249 @@
+Full_Date,Person,Transaction_Description,Category,Value,Total_Exp_Month_Counter,EOD_Balance
+01-10-2025,Bhavesh (Intern/Fresher),Netwin Systems Stipend,Income,15000,0,20000
+02-10-2025,Bhavesh (Intern/Fresher),PG Rent/Mess,Housing,-6000,6000,14000
+04-10-2025,Bhavesh (Intern/Fresher),Steam Games,Entertainment,-195.86,6195.86,13804.14
+05-10-2025,Bhavesh (Intern/Fresher),Movie Ticket,Entertainment,-140.21,6336.07,13663.93
+05-10-2025,Bhavesh (Intern/Fresher),Movie Ticket,Entertainment,-417,6753.07,13246.93
+06-10-2025,Bhavesh (Intern/Fresher),Uber,Travel,-349.21,7102.28,12897.72
+07-10-2025,Bhavesh (Intern/Fresher),Uber,Travel,-717.43,7819.71,12180.29
+07-10-2025,Bhavesh (Intern/Fresher),Movie Ticket,Entertainment,-53.61,7873.32,12126.68
+13-10-2025,Bhavesh (Intern/Fresher),UPI-Zomato,Food & Dining,-523.99,8397.31,11602.69
+13-10-2025,Bhavesh (Intern/Fresher),Rapido,Travel,-710.6,9107.91,10892.09
+14-10-2025,Bhavesh (Intern/Fresher),Steam Games,Entertainment,-347.41,9455.32,10544.68
+14-10-2025,Bhavesh (Intern/Fresher),Steam Games,Entertainment,-324.04,9779.36,10220.64
+14-10-2025,Bhavesh (Intern/Fresher),Myntra,Shopping,-504.05,10283.41,9716.59
+14-10-2025,Bhavesh (Intern/Fresher),UPI-Zomato,Food & Dining,-206.24,10489.65,9510.35
+15-10-2025,Bhavesh (Intern/Fresher),Spotify Premium,Subscription,-59,10548.65,9451.35
+16-10-2025,Bhavesh (Intern/Fresher),Rapido,Travel,-236.19,10784.84,9215.16
+17-10-2025,Bhavesh (Intern/Fresher),Amazon,Shopping,-82.82,10867.66,9132.34
+17-10-2025,Bhavesh (Intern/Fresher),UPI-Swiggy,Food & Dining,-654.36,11522.02,8477.98
+19-10-2025,Bhavesh (Intern/Fresher),UPI-Swiggy,Food & Dining,-334.48,11856.5,8143.5
+20-10-2025,Bhavesh (Intern/Fresher),AWS Cloud Compute,Tech,-450,12306.5,7693.5
+21-10-2025,Bhavesh (Intern/Fresher),Steam Games,Entertainment,-294.99,12601.49,7398.51
+23-10-2025,Bhavesh (Intern/Fresher),Train Ticket,Travel,-94.49,12695.98,7304.02
+24-10-2025,Bhavesh (Intern/Fresher),Rapido,Travel,-167.15,12863.13,7136.87
+24-10-2025,Bhavesh (Intern/Fresher),Train Ticket,Travel,-193.96,13057.09,6942.91
+25-10-2025,Bhavesh (Intern/Fresher),College Canteen,Food & Dining,-283.93,13341.02,6658.98
+27-10-2025,Bhavesh (Intern/Fresher),Rapido,Travel,-467.27,13808.29,6191.71
+28-10-2025,Bhavesh (Intern/Fresher),UPI-Swiggy,Food & Dining,-463.19,14271.48,5728.52
+29-10-2025,Bhavesh (Intern/Fresher),UPI-Zomato,Food & Dining,-520.12,14791.6,5208.4
+29-10-2025,Bhavesh (Intern/Fresher),Train Ticket,Travel,-198.49,14990.09,5009.91
+31-10-2025,Bhavesh (Intern/Fresher),UPI-Swiggy,Food & Dining,-293.55,15283.64,4716.36
+01-11-2025,Bhavesh (Intern/Fresher),Netwin Systems Stipend,Income,15000,0,19716.36
+02-11-2025,Bhavesh (Intern/Fresher),PG Rent/Mess,Housing,-6000,6000,13716.36
+03-11-2025,Bhavesh (Intern/Fresher),Movie Ticket,Entertainment,-310.51,6310.51,13405.85
+04-11-2025,Bhavesh (Intern/Fresher),Uber,Travel,-711.81,7022.32,12694.04
+05-11-2025,Bhavesh (Intern/Fresher),Amazon,Shopping,-227.12,7249.44,12466.92
+05-11-2025,Bhavesh (Intern/Fresher),Uber,Travel,-95.74,7345.18,12371.18
+05-11-2025,Bhavesh (Intern/Fresher),UPI-Zomato,Food & Dining,-269.76,7614.94,12101.42
+06-11-2025,Bhavesh (Intern/Fresher),Movie Ticket,Entertainment,-242.58,7857.52,11858.84
+07-11-2025,Bhavesh (Intern/Fresher),UPI-Swiggy,Food & Dining,-469.18,8326.7,11389.66
+15-11-2025,Bhavesh (Intern/Fresher),Spotify Premium,Subscription,-59,8385.7,11330.66
+15-11-2025,Bhavesh (Intern/Fresher),Steam Games,Entertainment,-283.68,8669.38,11046.98
+15-11-2025,Bhavesh (Intern/Fresher),Rapido,Travel,-444.45,9113.83,10602.53
+15-11-2025,Bhavesh (Intern/Fresher),Movie Ticket,Entertainment,-208.2,9322.03,10394.33
+20-11-2025,Bhavesh (Intern/Fresher),AWS Cloud Compute,Tech,-450,9772.03,9944.33
+20-11-2025,Bhavesh (Intern/Fresher),Amazon,Shopping,-656.34,10428.37,9287.99
+22-11-2025,Bhavesh (Intern/Fresher),Amazon,Shopping,-136.96,10565.33,9151.03
+22-11-2025,Bhavesh (Intern/Fresher),Myntra,Shopping,-261.94,10827.27,8889.09
+23-11-2025,Bhavesh (Intern/Fresher),College Canteen,Food & Dining,-83.17,10910.44,8805.92
+26-11-2025,Bhavesh (Intern/Fresher),Uber,Travel,-93.98,11004.42,8711.94
+27-11-2025,Bhavesh (Intern/Fresher),UPI-Zomato,Food & Dining,-96.89,11101.31,8615.05
+27-11-2025,Bhavesh (Intern/Fresher),Movie Ticket,Entertainment,-171.5,11272.81,8443.55
+27-11-2025,Bhavesh (Intern/Fresher),Myntra,Shopping,-398.23,11671.04,8045.32
+29-11-2025,Bhavesh (Intern/Fresher),College Canteen,Food & Dining,-572.59,12243.63,7472.73
+29-11-2025,Bhavesh (Intern/Fresher),Steam Games,Entertainment,-251.56,12495.19,7221.17
+30-11-2025,Bhavesh (Intern/Fresher),Myntra,Shopping,-673.9,13169.09,6547.27
+30-11-2025,Bhavesh (Intern/Fresher),College Canteen,Food & Dining,-72.58,13241.67,6474.69
+01-12-2025,Bhavesh (Intern/Fresher),Netwin Systems Stipend,Income,15000,0,21474.69
+02-12-2025,Bhavesh (Intern/Fresher),PG Rent/Mess,Housing,-6000,6000,15474.69
+02-12-2025,Bhavesh (Intern/Fresher),Uber,Travel,-199.43,6199.43,15275.26
+03-12-2025,Bhavesh (Intern/Fresher),Amazon,Shopping,-280.17,6479.6,14995.09
+06-12-2025,Bhavesh (Intern/Fresher),Uber,Travel,-118.56,6598.16,14876.53
+08-12-2025,Bhavesh (Intern/Fresher),College Canteen,Food & Dining,-690.96,7289.12,14185.57
+10-12-2025,Bhavesh (Intern/Fresher),UPI-Zomato,Food & Dining,-373.28,7662.4,13812.29
+10-12-2025,Bhavesh (Intern/Fresher),UPI-Zomato,Food & Dining,-246.62,7909.02,13565.67
+11-12-2025,Bhavesh (Intern/Fresher),Myntra,Shopping,-177.99,8087.01,13387.68
+15-12-2025,Bhavesh (Intern/Fresher),Spotify Premium,Subscription,-59,8146.01,13328.68
+15-12-2025,Bhavesh (Intern/Fresher),Rapido,Travel,-521.42,8667.43,12807.26
+15-12-2025,Bhavesh (Intern/Fresher),UPI-Swiggy,Food & Dining,-283.11,8950.54,12524.15
+17-12-2025,Bhavesh (Intern/Fresher),Movie Ticket,Entertainment,-231.23,9181.77,12292.92
+20-12-2025,Bhavesh (Intern/Fresher),AWS Cloud Compute,Tech,-450,9631.77,11842.92
+20-12-2025,Bhavesh (Intern/Fresher),Steam Games,Entertainment,-147.66,9779.43,11695.26
+20-12-2025,Bhavesh (Intern/Fresher),Uber,Travel,-272.23,10051.66,11423.03
+20-12-2025,Bhavesh (Intern/Fresher),Myntra,Shopping,-139.21,10190.87,11283.82
+22-12-2025,Bhavesh (Intern/Fresher),Movie Ticket,Entertainment,-309.82,10500.69,10974
+25-12-2025,Bhavesh (Intern/Fresher),Movie Ticket,Entertainment,-627.37,11128.06,10346.63
+25-12-2025,Bhavesh (Intern/Fresher),College Canteen,Food & Dining,-202.43,11330.49,10144.2
+25-12-2025,Bhavesh (Intern/Fresher),Train Ticket,Travel,-305.18,11635.67,9839.02
+28-12-2025,Bhavesh (Intern/Fresher),Myntra,Shopping,-79.81,11715.48,9759.21
+29-12-2025,Bhavesh (Intern/Fresher),UPI-Swiggy,Food & Dining,-351.74,12067.22,9407.47
+30-12-2025,Bhavesh (Intern/Fresher),UPI-Zomato,Food & Dining,-286.28,12353.5,9121.19
+31-12-2025,Bhavesh (Intern/Fresher),Myntra,Shopping,-369.07,12722.57,8752.12
+31-12-2025,Bhavesh (Intern/Fresher),College Canteen,Food & Dining,-73.03,12795.6,8679.09
+01-01-2026,Bhavesh (Intern/Fresher),Netwin Systems Stipend,Income,15000,0,23679.09
+01-01-2026,Bhavesh (Intern/Fresher),Movie Ticket,Entertainment,-370.05,370.05,23309.04
+02-01-2026,Bhavesh (Intern/Fresher),PG Rent/Mess,Housing,-6000,6370.05,17309.04
+04-01-2026,Bhavesh (Intern/Fresher),Rapido,Travel,-272.64,6642.69,17036.4
+04-01-2026,Bhavesh (Intern/Fresher),Train Ticket,Travel,-462.09,7104.78,16574.31
+05-01-2026,Bhavesh (Intern/Fresher),Movie Ticket,Entertainment,-91.75,7196.53,16482.56
+07-01-2026,Bhavesh (Intern/Fresher),Movie Ticket,Entertainment,-65.43,7261.96,16417.13
+07-01-2026,Bhavesh (Intern/Fresher),Steam Games,Entertainment,-245.72,7507.68,16171.41
+07-01-2026,Bhavesh (Intern/Fresher),UPI-Zomato,Food & Dining,-188.68,7696.36,15982.73
+08-01-2026,Bhavesh (Intern/Fresher),Uber,Travel,-166.05,7862.41,15816.68
+09-01-2026,Bhavesh (Intern/Fresher),Steam Games,Entertainment,-580.88,8443.29,15235.8
+09-01-2026,Bhavesh (Intern/Fresher),Train Ticket,Travel,-251.11,8694.4,14984.69
+11-01-2026,Bhavesh (Intern/Fresher),Movie Ticket,Entertainment,-636.8,9331.2,14347.89
+14-01-2026,Bhavesh (Intern/Fresher),Amazon,Shopping,-626.45,9957.65,13721.44
+15-01-2026,Bhavesh (Intern/Fresher),Spotify Premium,Subscription,-59,10016.65,13662.44
+16-01-2026,Bhavesh (Intern/Fresher),Train Ticket,Travel,-491.96,10508.61,13170.48
+20-01-2026,Bhavesh (Intern/Fresher),AWS Cloud Compute,Tech,-450,10958.61,12720.48
+21-01-2026,Bhavesh (Intern/Fresher),Myntra,Shopping,-175.47,11134.08,12545.01
+21-01-2026,Bhavesh (Intern/Fresher),Steam Games,Entertainment,-305.43,11439.51,12239.58
+22-01-2026,Bhavesh (Intern/Fresher),UPI-Swiggy,Food & Dining,-295.66,11735.17,11943.92
+23-01-2026,Bhavesh (Intern/Fresher),Uber,Travel,-384.99,12120.16,11558.93
+23-01-2026,Bhavesh (Intern/Fresher),Amazon,Shopping,-525.4,12645.56,11033.53
+24-01-2026,Bhavesh (Intern/Fresher),Train Ticket,Travel,-466.11,13111.67,10567.42
+24-01-2026,Bhavesh (Intern/Fresher),Steam Games,Entertainment,-443,13554.67,10124.42
+24-01-2026,Bhavesh (Intern/Fresher),Steam Games,Entertainment,-150.75,13705.42,9973.67
+27-01-2026,Bhavesh (Intern/Fresher),Myntra,Shopping,-140.2,13845.62,9833.47
+28-01-2026,Bhavesh (Intern/Fresher),Train Ticket,Travel,-98.53,13944.15,9734.94
+29-01-2026,Bhavesh (Intern/Fresher),UPI-Zomato,Food & Dining,-510.29,14454.44,9224.65
+30-01-2026,Bhavesh (Intern/Fresher),Rapido,Travel,-530.44,14984.88,8694.21
+30-01-2026,Bhavesh (Intern/Fresher),College Canteen,Food & Dining,-318.88,15303.76,8375.33
+30-01-2026,Bhavesh (Intern/Fresher),College Canteen,Food & Dining,-340.94,15644.7,8034.39
+31-01-2026,Bhavesh (Intern/Fresher),Amazon,Shopping,-539.18,16183.88,7495.21
+01-02-2026,Bhavesh (Intern/Fresher),Netwin Systems Stipend,Income,15000,0,22495.21
+02-02-2026,Bhavesh (Intern/Fresher),PG Rent/Mess,Housing,-6000,6000,16495.21
+03-02-2026,Bhavesh (Intern/Fresher),Myntra,Shopping,-405.32,6405.32,16089.89
+03-02-2026,Bhavesh (Intern/Fresher),College Canteen,Food & Dining,-462.8,6868.12,15627.09
+03-02-2026,Bhavesh (Intern/Fresher),Movie Ticket,Entertainment,-569.81,7437.93,15057.28
+04-02-2026,Bhavesh (Intern/Fresher),Myntra,Shopping,-526.36,7964.29,14530.92
+05-02-2026,Bhavesh (Intern/Fresher),College Canteen,Food & Dining,-374.35,8338.64,14156.57
+05-02-2026,Bhavesh (Intern/Fresher),Myntra,Shopping,-200.85,8539.49,13955.72
+06-02-2026,Bhavesh (Intern/Fresher),Myntra,Shopping,-314.08,8853.57,13641.64
+10-02-2026,Bhavesh (Intern/Fresher),Steam Games,Entertainment,-261.58,9115.15,13380.06
+11-02-2026,Bhavesh (Intern/Fresher),College Canteen,Food & Dining,-415.96,9531.11,12964.1
+12-02-2026,Bhavesh (Intern/Fresher),Movie Ticket,Entertainment,-224.2,9755.31,12739.9
+14-02-2026,Bhavesh (Intern/Fresher),Myntra,Shopping,-547.92,10303.23,12191.98
+14-02-2026,Bhavesh (Intern/Fresher),Amazon,Shopping,-66.68,10369.91,12125.3
+15-02-2026,Bhavesh (Intern/Fresher),Spotify Premium,Subscription,-59,10428.91,12066.3
+15-02-2026,Bhavesh (Intern/Fresher),Steam Games,Entertainment,-324.69,10753.6,11741.61
+15-02-2026,Bhavesh (Intern/Fresher),Steam Games,Entertainment,-401.59,11155.19,11340.02
+17-02-2026,Bhavesh (Intern/Fresher),Myntra,Shopping,-303.81,11459,11036.21
+17-02-2026,Bhavesh (Intern/Fresher),Rapido,Travel,-271.04,11730.04,10765.17
+17-02-2026,Bhavesh (Intern/Fresher),Steam Games,Entertainment,-210.78,11940.82,10554.39
+17-02-2026,Bhavesh (Intern/Fresher),Amazon,Shopping,-396.53,12337.35,10157.86
+20-02-2026,Bhavesh (Intern/Fresher),AWS Cloud Compute,Tech,-450,12787.35,9707.86
+20-02-2026,Bhavesh (Intern/Fresher),College Canteen,Food & Dining,-313.28,13100.63,9394.58
+20-02-2026,Bhavesh (Intern/Fresher),UPI-Zomato,Food & Dining,-450.55,13551.18,8944.03
+20-02-2026,Bhavesh (Intern/Fresher),Myntra,Shopping,-345.36,13896.54,8598.67
+22-02-2026,Bhavesh (Intern/Fresher),College Canteen,Food & Dining,-143.56,14040.1,8455.11
+22-02-2026,Bhavesh (Intern/Fresher),Uber,Travel,-518.79,14558.89,7936.32
+24-02-2026,Bhavesh (Intern/Fresher),UPI-Zomato,Food & Dining,-167.56,14726.45,7768.76
+25-02-2026,Bhavesh (Intern/Fresher),Movie Ticket,Entertainment,-377.68,15104.13,7391.08
+26-02-2026,Bhavesh (Intern/Fresher),UPI-Zomato,Food & Dining,-178,15282.13,7213.08
+28-02-2026,Bhavesh (Intern/Fresher),UPI-Zomato,Food & Dining,-395.93,15678.06,6817.15
+01-03-2026,Bhavesh (Intern/Fresher),Netwin Systems Stipend,Income,15000,0,21817.15
+02-03-2026,Bhavesh (Intern/Fresher),PG Rent/Mess,Housing,-6000,6000,15817.15
+02-03-2026,Bhavesh (Intern/Fresher),Amazon,Shopping,-379.77,6379.77,15437.38
+04-03-2026,Bhavesh (Intern/Fresher),UPI-Swiggy,Food & Dining,-551.72,6931.49,14885.66
+04-03-2026,Bhavesh (Intern/Fresher),Myntra,Shopping,-624.33,7555.82,14261.33
+05-03-2026,Bhavesh (Intern/Fresher),Train Ticket,Travel,-67.24,7623.06,14194.09
+06-03-2026,Bhavesh (Intern/Fresher),Myntra,Shopping,-276.98,7900.04,13917.11
+06-03-2026,Bhavesh (Intern/Fresher),Steam Games,Entertainment,-155.93,8055.97,13761.18
+08-03-2026,Bhavesh (Intern/Fresher),Steam Games,Entertainment,-156.75,8212.72,13604.43
+08-03-2026,Bhavesh (Intern/Fresher),UPI-Zomato,Food & Dining,-346.41,8559.13,13258.02
+09-03-2026,Bhavesh (Intern/Fresher),Movie Ticket,Entertainment,-616.86,9175.99,12641.16
+10-03-2026,Bhavesh (Intern/Fresher),UPI-Swiggy,Food & Dining,-598.93,9774.92,12042.23
+10-03-2026,Bhavesh (Intern/Fresher),Amazon,Shopping,-459.47,10234.39,11582.76
+14-03-2026,Bhavesh (Intern/Fresher),Amazon,Shopping,-203.64,10438.03,11379.12
+15-03-2026,Bhavesh (Intern/Fresher),Spotify Premium,Subscription,-59,10497.03,11320.12
+16-03-2026,Bhavesh (Intern/Fresher),UPI-Swiggy,Food & Dining,-435.47,10932.5,10884.65
+19-03-2026,Bhavesh (Intern/Fresher),Train Ticket,Travel,-174.34,11106.84,10710.31
+20-03-2026,Bhavesh (Intern/Fresher),AWS Cloud Compute,Tech,-450,11556.84,10260.31
+20-03-2026,Bhavesh (Intern/Fresher),Amazon,Shopping,-311.93,11868.77,9948.38
+21-03-2026,Bhavesh (Intern/Fresher),UPI-Swiggy,Food & Dining,-403.48,12272.25,9544.9
+21-03-2026,Bhavesh (Intern/Fresher),Amazon,Shopping,-188.44,12460.69,9356.46
+25-03-2026,Bhavesh (Intern/Fresher),Amazon,Shopping,-432.81,12893.5,8923.65
+27-03-2026,Bhavesh (Intern/Fresher),Amazon,Shopping,-79.08,12972.58,8844.57
+28-03-2026,Bhavesh (Intern/Fresher),College Canteen,Food & Dining,-625.42,13598,8219.15
+30-03-2026,Bhavesh (Intern/Fresher),Myntra,Shopping,-327.41,13925.41,7891.74
+31-03-2026,Bhavesh (Intern/Fresher),Steam Games,Entertainment,-221.92,14147.33,7669.82
+01-10-2025,Virendra (Freelancer),Project Payment - Client A,Income,80000,0,230000
+02-10-2025,Virendra (Freelancer),Apartment Rent,Housing,-25000,25000,205000
+05-10-2025,Virendra (Freelancer),Electricity Bill,Utilities,-4500,29500,200500
+10-10-2025,Virendra (Freelancer),Grocery Store,Food & Dining,-8000,37500,192500
+15-10-2025,Virendra (Freelancer),Adobe Creative Cloud,Subscription,-4000,41500,188500
+20-10-2025,Virendra (Freelancer),New Monitor,Tech,-25000,66500,163500
+25-10-2025,Virendra (Freelancer),Project Payment - Client B,Income,40000,66500,203500
+01-11-2025,Virendra (Freelancer),Project Payment - Client A,Income,85000,0,288500
+02-11-2025,Virendra (Freelancer),Apartment Rent,Housing,-25000,25000,263500
+05-11-2025,Virendra (Freelancer),Electricity Bill,Utilities,-4200,29200,259300
+10-11-2025,Virendra (Freelancer),Grocery Store,Food & Dining,-7500,36700,251800
+15-11-2025,Virendra (Freelancer),Adobe Creative Cloud,Subscription,-4000,40700,247800
+20-11-2025,Virendra (Freelancer),Co-working Space,Housing,-10000,50700,237800
+01-12-2025,Virendra (Freelancer),Project Payment - Client A,Income,90000,0,327800
+02-12-2025,Virendra (Freelancer),Apartment Rent,Housing,-25000,25000,302800
+05-12-2025,Virendra (Freelancer),Electricity Bill,Utilities,-4800,29800,298000
+10-12-2025,Virendra (Freelancer),Grocery Store,Food & Dining,-9000,38800,289000
+15-12-2025,Virendra (Freelancer),Adobe Creative Cloud,Subscription,-4000,42800,285000
+25-12-2025,Virendra (Freelancer),Holiday Trip,Travel,-40000,82800,245000
+01-01-2026,Virendra (Freelancer),Project Payment - Client A,Income,80000,0,325000
+02-01-2026,Virendra (Freelancer),Apartment Rent,Housing,-25000,25000,300000
+05-01-2026,Virendra (Freelancer),Electricity Bill,Utilities,-4000,29000,296000
+10-01-2026,Virendra (Freelancer),Grocery Store,Food & Dining,-8500,37500,287500
+15-01-2026,Virendra (Freelancer),Adobe Creative Cloud,Subscription,-4000,41500,283500
+01-02-2026,Virendra (Freelancer),Project Payment - Client A,Income,95000,0,378500
+02-02-2026,Virendra (Freelancer),Apartment Rent,Housing,-25000,25000,353500
+05-02-2026,Virendra (Freelancer),Electricity Bill,Utilities,-4300,29300,349200
+10-02-2026,Virendra (Freelancer),Grocery Store,Food & Dining,-8200,37500,341000
+15-02-2026,Virendra (Freelancer),Adobe Creative Cloud,Subscription,-4000,41500,337000
+01-03-2026,Virendra (Freelancer),Project Payment - Client A,Income,100000,0,437000
+02-03-2026,Virendra (Freelancer),Apartment Rent,Housing,-25000,25000,412000
+05-03-2026,Virendra (Freelancer),Electricity Bill,Utilities,-4600,29600,407400
+10-03-2026,Virendra (Freelancer),Grocery Store,Food & Dining,-8800,38400,398600
+15-03-2026,Virendra (Freelancer),Adobe Creative Cloud,Subscription,-4000,42400,394600
+01-10-2025,Gokul (Salaried Bachelor),Monthly Salary,Income,60000,0,60000
+02-10-2025,Gokul (Salaried Bachelor),Rent,Housing,-15000,15000,45000
+05-10-2025,Gokul (Salaried Bachelor),Internet,Utilities,-1500,16500,43500
+10-10-2025,Gokul (Salaried Bachelor),Dinner with Friends,Food & Dining,-2000,18500,41500
+15-10-2025,Gokul (Salaried Bachelor),Netflix,Subscription,-500,19000,41000
+01-11-2025,Gokul (Salaried Bachelor),Monthly Salary,Income,60000,0,101000
+02-11-2025,Gokul (Salaried Bachelor),Rent,Housing,-15000,15000,86000
+01-12-2025,Gokul (Salaried Bachelor),Monthly Salary,Income,60000,0,146000
+02-12-2025,Gokul (Salaried Bachelor),Rent,Housing,-15000,15000,131000
+01-01-2026,Gokul (Salaried Bachelor),Monthly Salary,Income,60000,0,191000
+02-01-2026,Gokul (Salaried Bachelor),Rent,Housing,-15000,15000,176000
+01-02-2026,Gokul (Salaried Bachelor),Monthly Salary,Income,60000,0,236000
+02-02-2026,Gokul (Salaried Bachelor),Rent,Housing,-15000,15000,221000
+01-03-2026,Gokul (Salaried Bachelor),Monthly Salary,Income,60000,0,281000
+02-03-2026,Gokul (Salaried Bachelor),Rent,Housing,-15000,15000,266000
+01-10-2025,Aniket (Married Professional),Salary,Income,150000,0,150000
+02-10-2025,Aniket (Married Professional),Home Loan EMI,Housing,-45000,45000,105000
+05-10-2025,Aniket (Married Professional),School Fees,Education,-15000,60000,90000
+10-10-2025,Aniket (Married Professional),BigBasket,Food & Dining,-12000,72000,78000
+01-11-2025,Aniket (Married Professional),Salary,Income,150000,0,228000
+02-11-2025,Aniket (Married Professional),Home Loan EMI,Housing,-45000,45000,183000
+01-12-2025,Aniket (Married Professional),Salary,Income,150000,0,333000
+02-12-2025,Aniket (Married Professional),Home Loan EMI,Housing,-45000,45000,288000
+01-01-2026,Aniket (Married Professional),Salary,Income,150000,0,438000
+02-01-2026,Aniket (Married Professional),Home Loan EMI,Housing,-45000,45000,393000
+01-02-2026,Aniket (Married Professional),Salary,Income,150000,0,543000
+02-02-2026,Aniket (Married Professional),Home Loan EMI,Housing,-45000,45000,498000
+01-03-2026,Aniket (Married Professional),Salary,Income,150000,0,648000
+02-03-2026,Aniket (Married Professional),Home Loan EMI,Housing,-45000,45000,603000
+01-10-2025,Pratik (Remote Worker),Salary,Income,120000,0,120000
+02-10-2025,Pratik (Remote Worker),Rent,Housing,-10000,10000,110000
+05-10-2025,Pratik (Remote Worker),High Speed Internet,Utilities,-2500,12500,107500
+10-10-2025,Pratik (Remote Worker),New Desk,Tech,-8000,20500,99500
+01-11-2025,Pratik (Remote Worker),Salary,Income,120000,0,219500
+02-11-2025,Pratik (Remote Worker),Rent,Housing,-10000,10000,209500
+01-12-2025,Pratik (Remote Worker),Salary,Income,120000,0,329500
+02-12-2025,Pratik (Remote Worker),Rent,Housing,-10000,10000,319500
+01-01-2026,Pratik (Remote Worker),Salary,Income,120000,0,439500
+02-01-2026,Pratik (Remote Worker),Rent,Housing,-10000,10000,429500
+01-02-2026,Pratik (Remote Worker),Salary,Income,120000,0,549500
+02-02-2026,Pratik (Remote Worker),Rent,Housing,-10000,10000,539500
+01-03-2026,Pratik (Remote Worker),Salary,Income,120000,0,659500
+02-03-2026,Pratik (Remote Worker),Rent,Housing,-10000,10000,649500
