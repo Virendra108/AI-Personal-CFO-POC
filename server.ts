@@ -92,6 +92,11 @@ async function startServer() {
         5. Use a professional yet conversational tone.
         6. If the user's request involves a purchase, simulate it and provide a risk score (1-10).
         7. Reference the Priority Waterfall when discussing surplus funds. Explain why certain goals are being funded before others based on priority.
+        8. Use Markdown for formatting:
+           - Use **bold** for key numbers and alerts.
+           - Use bullet points for lists of actions or insights.
+           - Use headers (###) for sections.
+           - Use tables for comparisons if needed.
       `;
 
       if (groqKey && groqKey !== "MY_GROQ_API_KEY") {

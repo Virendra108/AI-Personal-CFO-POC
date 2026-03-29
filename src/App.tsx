@@ -8,6 +8,16 @@ import {
   Target, CheckCircle, Plus
 } from "lucide-react";
 import { motion, AnimatePresence } from "motion/react";
+import ReactMarkdown from "react-markdown";
+
+interface Goal {
+  id: string;
+  name: string;
+  targetAmount: number;
+  savedAmount: number;
+  priority: number;
+  category: string;
+}
 
 interface Insight {
   currentBalance: number;
@@ -17,6 +27,8 @@ interface Insight {
   upcomingFixedExpenses: { category: string; amount: number; dueDate: string }[];
   riskAlerts: string[];
   forecast: { month: string; balance: number }[];
+  goals: Goal[];
+  waterfallAllocation: { goalName: string; allocatedAmount: number }[];
 }
 
 interface Message {
@@ -423,7 +435,13 @@ export default function App() {
                       ? 'bg-orange-600 text-white rounded-tr-none' 
                       : 'bg-zinc-800 text-zinc-100 rounded-tl-none border border-zinc-700'
                   }`}>
-                    {msg.text}
+                    {msg.role === 'user' ? (
+                      msg.text
+                    ) : (
+                      <div className="prose prose-invert prose-sm max-w-none prose-p:leading-relaxed prose-headings:mb-2 prose-headings:mt-4 prose-headings:text-orange-500 prose-strong:text-orange-400 prose-ul:list-disc prose-ol:list-decimal">
+                        <ReactMarkdown>{msg.text}</ReactMarkdown>
+                      </div>
+                    )}
                   </div>
                 </motion.div>
               ))}
